@@ -8,7 +8,7 @@
 - git clone https://github.com/vemulurin/LiftController.git
 - cd LiftController
 ## Build the project
-dotnet build
+dotnet build .\LiftController.sln
 ## Run the application
 dotnet run
 ## Sample Output
