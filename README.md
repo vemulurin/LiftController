@@ -6,7 +6,7 @@
 
 ## Clone the repository
 - git clone https://github.com/vemulurin/LiftController.git
-- cd elevator-console-app
+- cd LiftController
 ## Build the project
 dotnet build
 ## Run the application
